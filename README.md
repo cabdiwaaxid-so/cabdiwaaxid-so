@@ -44,7 +44,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
   </a>
 <a href="https://www.whoapp.site/profile/cabdiwaaxid" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://www.whoappsomali.site/src/icons/whoapp.png" alt="Whoapp Somali" width="40" height="40" />
+    <img src="https://www.whoapp.site/src/icons/whoapp.png" alt="Whoapp (My App)" width="40" height="40" />
 </a>
   <a href="https://www.ninyaaban.site/profile/cabdiwaaxid" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://www.ninyaaban.site/src/images/logo.png" alt="Nin Yaaban" width="40" height="40" />
